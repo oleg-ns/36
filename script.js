@@ -25,3 +25,6 @@ $(document).ready(setTimeout(function () {
     $('div').blue();
 },1000))
 //8
+$('button').trigger('click')
+$('div').blue()
+//9
